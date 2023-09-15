@@ -4,4 +4,4 @@ sumTotal = n * (n+1)/2
 
 sumTotal
 
-c("the sum is:",sumTotal)
+c("the sum is:",sumTotal) 
